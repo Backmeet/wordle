@@ -4,7 +4,7 @@ setlocal EnableDelayedExpansion
 REM ================= USER CONFIG =================
 set SRC=main.c++
 set OUT=auto
-set LIBS=
+set LIBS=-static
 REM ===============================================
 
 REM ================= ARGS =================
